@@ -1,0 +1,17 @@
+npm install --save react
+
+import React from 'react';
+import ReactDOM from 'react-dom';
+import Square from 'react-square';
+
+
+
+class Square extends React.Component {
+  render() {
+    return (
+      <button className="square">
+        {/* TODO */}
+      </button>
+    );
+  }
+}
