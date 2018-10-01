@@ -1,9 +1,6 @@
-npm install --save react
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Rectangle from 'react-rectangle';
-
 
 ReactDOM.render(
   <div style={{ background: '#ffffff', width: '100vw', height: '100vh' }}>
